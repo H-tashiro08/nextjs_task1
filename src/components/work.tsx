@@ -4,7 +4,7 @@ const Work = () => {
   return (
     <>
       <div style={{ display: "flex" }}>
-        <Image src={"/img/Favolite1.png"} width={630} height={300} alt="" />
+        <Image src={"/img/favolite1.png"} width={630} height={300} alt="" />
         <Image src={"/img/favolite2.png"} width={630} height={300} alt="" />
       </div>
       <div style={{ display: "flex" }}>
